@@ -9,3 +9,6 @@
 - Multiple Sources: Access news from a wide range of trusted sources.
 - Trending Topics: Discover what’s trending in the world right now.
 - User-Friendly Interface: Navigate through the app with ease thanks to a clean and intuitive design.
+
+##Demonstration Video -
+https://drive.google.com/file/d/1-9HBmkarCBeE-H4KbQENT8LEq2w9qiqW/view?usp=share_link
