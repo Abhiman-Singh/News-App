@@ -12,3 +12,6 @@
 
 ## Demonstration Video 
 - https://drive.google.com/file/d/1-9HBmkarCBeE-H4KbQENT8LEq2w9qiqW/view?usp=share_link
+
+## Screeshots
+<img src="https://github.com/Abhiman-Singh/News-App/blob/my-new-branch/screenshots/Dark.jpg" width="236" height="500" style="margin-right: 40px">
